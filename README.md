@@ -6,5 +6,5 @@ Learned societies, as professional bodies for scientists, are an integral part o
 
 This repository contains following files:   
 - "MASTER EcoEvo_membership_fees_v1 - reconciled_data_final.csv" which contains extracted raw data   
-- "preliminary_analyses.Rmd" - analysis code as R markdown document used to create supplementary methods and results document   
-- "preliminary_analyses.html" - supplementary methods and results document in html format  
+- "final_analyses.Rmd" - analysis code as R markdown document used to create supplementary methods and results document   
+- "final_analyses.html" - supplementary methods and results document in html format  
